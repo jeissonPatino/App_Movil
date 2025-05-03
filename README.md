@@ -58,4 +58,3 @@ Los siguientes pasos planeados para el desarrollo incluyen:
 
 * Jeisson Andrés Patiño Ramírez - ja.patino@urepublicana.edu.co
 
-¡Espero que esta configuración inicial para tu `README.md` sea útil! Puedes seguir actualizándolo a medida que avances con el desarrollo de tu aplicación. ¿Hay alguna sección específica que te gustaría detallar más o agregar algo más?
