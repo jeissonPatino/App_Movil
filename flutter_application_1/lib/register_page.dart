@@ -26,7 +26,7 @@ class _RegisterPageState extends State<RegisterPage> {
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
             TextField(
-              controller: _usernameController, // Asignamos el controlador
+              controller: _usernameController, 
               decoration: const InputDecoration(
                 labelText: 'Nombre de Usuario (NombreApellido)',
                 border: OutlineInputBorder(),
@@ -34,7 +34,7 @@ class _RegisterPageState extends State<RegisterPage> {
             ),
             const SizedBox(height: 20.0),
             TextField(
-              controller: _passwordController, // Asignamos el controlador
+              controller: _passwordController, 
               obscureText: true,
               decoration: const InputDecoration(
                 labelText: 'Contraseña',
@@ -43,7 +43,7 @@ class _RegisterPageState extends State<RegisterPage> {
             ),
             const SizedBox(height: 20.0),
             TextField(
-              controller: _confirmPasswordController, // Asignamos el controlador
+              controller: _confirmPasswordController, 
               obscureText: true,
               decoration: const InputDecoration(
                 labelText: 'Confirmar Contraseña',
@@ -137,7 +137,6 @@ class _RegisterPageState extends State<RegisterPage> {
 
   @override
   void dispose() {
-    // Es importante liberar los recursos de los controladores cuando ya no se necesiten
     _usernameController.dispose();
     _passwordController.dispose();
     _confirmPasswordController.dispose();

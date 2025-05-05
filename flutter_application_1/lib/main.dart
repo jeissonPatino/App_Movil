@@ -16,7 +16,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
-      home: const LoginPage(), // Define la pantalla de inicio de la aplicación
+      home: const LoginPage(),
     );
   }
 }
