@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "218399398345",
+    "project_id": "geofotossociales",
+    "storage_bucket": "geofotossociales.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:218399398345:android:40c039f2ea00fe57a4f018",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC__FCHEJ2ZpgC2ROy3OkM46Eu6HFZMWts"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:218399398345:android:38bc488dddae7407a4f018",
+        "android_client_info": {
+          "package_name": "com.example.geofotos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC__FCHEJ2ZpgC2ROy3OkM46Eu6HFZMWts"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
